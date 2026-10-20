@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "kopi-email-marketing": {
+      "type": "http",
+      "url": "https://www.trykopi.ai/mcp"
+    }
+  }
+}
